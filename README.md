@@ -13,7 +13,7 @@ Functions that the script can do are:
 
 ---
 
-#### Script. (**MUST CALL THE SCRIPT: *script.sh***)
+#### Script | Name the script ``script.sh``.
 
 ```
 #/bin/bash
