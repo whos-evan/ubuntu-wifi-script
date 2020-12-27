@@ -107,3 +107,7 @@ rm -rf script.sh
 else
 fi
 ```
+
+### Issues
+
+If you have any issues please DM on Discord Biune#0001 or create an issue.
