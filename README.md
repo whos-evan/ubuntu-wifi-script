@@ -1,7 +1,5 @@
 ## Ubuntu WiFi Script | *script.sh*
 
----
-
 This script runs when you place the script.sh file in the directory that Ubuntu is in. This is meant for server versions of Ubuntu. This can create/edit network-config (with your wifi information) and enable ssh (creates a file called ssh)
 
 ---
