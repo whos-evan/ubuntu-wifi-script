@@ -9,7 +9,7 @@ This script runs when you place the script.sh file in the directory that Ubuntu 
 
 Functions that the script can do are:
 - Create/edit a file with your network information.
-- Enable SSH on startup.
+- ~~Enable SSH on startup.~~ this is pointless its automatically on at startup
 - Self-destruct when finished.
 
 ---
